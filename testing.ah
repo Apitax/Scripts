@@ -1,4 +1,3 @@
-from std import string as stdstr;
-
+from std import String as stdstr;
 
 log(stdstr.substr(text="hi i am a test of this thing", length=5));
