@@ -1,5 +1,5 @@
-//from std import String as stdstr;
+from std import String as stdstr;
 
-//log(stdstr.substr(text="hi i am a test of this thing", length=5));
+log(stdstr.substr(text="hi i am a test of this thing", length=5));
 
-log("test");
+//log("test");
